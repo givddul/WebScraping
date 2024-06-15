@@ -26,3 +26,8 @@ Recommendations
 * On Friday the movie "Keep Your Seats, Please" starts at 16:00 and there is a free table between 18:00-20:00.
 * On Friday the movie "A Day at the Races" starts at 16:00 and there is a free table between 18:00-20:00.
 ------------------------------------------------------------------------
+```
+
+##
+### Credits
+This application was developed as part of a web programming course assignment at Linnaeus University.
